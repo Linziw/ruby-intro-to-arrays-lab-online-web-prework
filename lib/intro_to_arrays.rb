@@ -11,5 +11,5 @@ def array_with_two_elements
  end
  
  def third_element (array)
-   array[3]
+   array[2]
  end
