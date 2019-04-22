@@ -26,4 +26,6 @@ def array_with_two_elements
     array.last
   end
   
-  
+  def length_of_array (array)
+    array.length
+  end
