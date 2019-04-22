@@ -22,4 +22,8 @@ def array_with_two_elements
     array.first
   end
   
+  def last_element_with_array_methods (array)
+    array.last
+  end
+  
   
